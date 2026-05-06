@@ -39,3 +39,7 @@ Acesse `http://localhost:8501` no browser.
 - [yfinance](https://github.com/ranaroussi/yfinance) — dados históricos do Yahoo Finance
 - [Plotly](https://plotly.com/python/) — gráficos interativos
 - [pandas](https://pandas.pydata.org/) — manipulação de dados
+
+---
+
+Projeto criado pelo [Claude Code](https://claude.ai/code) via terminal.
