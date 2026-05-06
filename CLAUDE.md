@@ -2,6 +2,23 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Repository
+
+GitHub: https://github.com/douglasmodolo/acoes-2025-dashboard
+
+**After every change to the project, commit and push to GitHub:**
+
+```bash
+git add -p                        # stage changes selectively
+git commit -m "descrição clara"
+git push
+```
+
+`gh` CLI is required for repo management. If `gh` is not on PATH in PowerShell, reload with:
+```powershell
+$env:PATH = [System.Environment]::GetEnvironmentVariable("PATH","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("PATH","User")
+```
+
 ## Commands
 
 ```bash
